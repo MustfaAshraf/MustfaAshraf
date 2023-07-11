@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3 align="center">
   Welcome to Mustafa Ashraf's profile!
@@ -16,11 +16,15 @@
 - 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming & Networks.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/Eng-MustafaAshraf" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/MustafaAshrafAbdElsamei" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
 ### 🛠 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat)&nbsp;
