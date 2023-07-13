@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Cyber Security Engineer and PM Manager at Kian Academy
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming & Networks.
+- 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming & Networks or Cyber Security.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
