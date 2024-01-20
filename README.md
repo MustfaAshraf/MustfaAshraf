@@ -37,6 +37,7 @@
 ![OOP](https://img.shields.io/badge/-OOP%20-05122A?style=flat&logo=OOP)&nbsp;
 ![Data Structure](https://img.shields.io/badge/-Data_Structure%20-05122A?style=flat&logo=Data_Structure)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms%20-05122A?style=flat&logo=Algorithms)&nbsp;
+![Linux](https://img.shields.io/badge/-Algorithms%20-05122A?style=flat&logo=Algorithms)&nbsp;
 
 
 
