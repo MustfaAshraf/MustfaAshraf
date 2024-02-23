@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm Penetration Tester and Co-Founder of Kian Academy
-- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming & Networks or Cyber Security.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
