@@ -8,12 +8,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Penetration%20Tester;Always%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Penetration%20Tester;Back%20End%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm Penetration Tester and Co-Founder of Kian Academy
+- 🏢 I'm Penetration Tester, Back-End Developer and Co-Founder of Kian Academy
 - 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming & Networks or Cyber Security.
+- 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming, Networks, Web Development and Cyber Security.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
