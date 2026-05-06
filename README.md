@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Backend%20Developer%20;Cybersecurity%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm Software Engineer, Full-Stack Developer (MERN)
+- 🏢 I'm Software Engineer, Backend Developer (Node.js & Laravel)
 - 👨‍💻 As an IT graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, OOP with C++, PHP, MySQL, and Data Structure & Algorithms, or anything related to Programming, Networks, Web Development and Cyber Security.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
